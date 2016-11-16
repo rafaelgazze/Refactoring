@@ -1,0 +1,9 @@
+C:\Tfs\Embratel - Vidyo\APS\Embratel-Vidyo.CDRApplication.Library\bin\Debug\Embratel-Vidyo.CDRApplication.Library.dll
+C:\Tfs\Embratel - Vidyo\APS\Embratel-Vidyo.CDRApplication.Library\bin\Debug\Embratel-Vidyo.CDRApplication.Library.pdb
+C:\Tfs\Embratel - Vidyo\APS\Embratel-Vidyo.CDRApplication.Library\obj\Debug\Embratel-Vidyo.CDRApplication.Library.dll
+C:\Tfs\Embratel - Vidyo\APS\Embratel-Vidyo.CDRApplication.Library\obj\Debug\Embratel-Vidyo.CDRApplication.Library.pdb
+C:\Tfs\Embratel - Vidyo\APS\Embratel-Vidyo.CDRApplication.Library\obj\Debug\Embratel-Vidyo.CDRApplication.Library.csprojResolveAssemblyReference.cache
+C:\Tfs\Embratel - Vidyo\APS\Embratel-Vidyo.CDRApplication.Library\bin\Debug\MySql.Data.dll
+C:\Tfs\Embratel - Vidyo\APS\Embratel-Vidyo.CDRApplication.Library\bin\Debug\Newtonsoft.Json.dll
+C:\Tfs\Embratel - Vidyo\APS\Embratel-Vidyo.CDRApplication.Library\bin\Debug\MySql.Data.xml
+C:\Tfs\Embratel - Vidyo\APS\Embratel-Vidyo.CDRApplication.Library\bin\Debug\Newtonsoft.Json.xml
